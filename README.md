@@ -13,8 +13,8 @@ Creiamo una pagina web che conterrà un form HTML e implementiamo un sistema di 
 - [X]  Rifattorizzare il codice in modo che la logica di controllo dell'email sia contenuta in functions.php.
 
 ### Milestone 3: (Stile dell'alert)
-- []  Modificare la classe dell'alert in base all'esito della funzione di validazione.
-- []  Utilizzare la classe alert-success per indicare un esito positivo e alert-danger per un esito negativo.
+- [X]  Modificare la classe dell'alert in base all'esito della funzione di validazione.
+- [X]  Utilizzare la classe alert-success per indicare un esito positivo e alert-danger per un esito negativo.
 
 ## BONUS:
 
