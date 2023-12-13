@@ -1,16 +1,9 @@
 <?php
-// Definisci la funzione per verificare l'email
-function emailControl($email)
-{
-    // Verifica se l'email contiene @ e .
-    if (str_contains($email, '@') && str_contains($email, '.')) {
-        return 'Email valida';
-    } else {
-        return 'Email non valida';
-    }
-}
+
+include 'functions.php';
 
 $message = '';
+
 // Verifica se è stato inviato il form
 if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['email'])) {
     // Chiama la funzione di verifica dell'email

@@ -8,9 +8,9 @@ Creiamo una pagina web che conterrà un form HTML e implementiamo un sistema di 
 - [X]  Mostrare il risultato della validazione sulla stessa pagina.
 
 ### Milestone 2 (functions.php)
-- []  Creare un file functions.php per gestire la logica di controllo dell'email.
-- []  Utilizzare l'istruzione include in index.php per incorporare il file functions.php.
-- []  Rifattorizzare il codice in modo che la logica di controllo dell'email sia contenuta in functions.php.
+- [X]  Creare un file functions.php per gestire la logica di controllo dell'email.
+- [X]  Utilizzare l'istruzione include in index.php per incorporare il file functions.php.
+- [X]  Rifattorizzare il codice in modo che la logica di controllo dell'email sia contenuta in functions.php.
 
 ### Milestone 3: (Stile dell'alert)
 - []  Modificare la classe dell'alert in base all'esito della funzione di validazione.
