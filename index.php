@@ -6,6 +6,12 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Iscriviti alla newsletter</h1>
+
+    <form action="" method="post">
+        <label for="email">Indirizzo Email:</label>
+        <input type="email" id="email" name="email" required>        
+        <input type="submit" value="Invia">        
+    </form>    
 </body>
 </html>
