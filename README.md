@@ -4,8 +4,8 @@ Creiamo una pagina web che conterrà un form HTML e implementiamo un sistema di 
 
 ### Milestone 1 (creazione del form)
 - [X]  Creare un file index.php contenente un form HTML con un campo di input per l'inserimento dell'indirizzo email.
-- []  Implementare la logica di controllo dell'email direttamente in index.php.
-- []  Mostrare il risultato della validazione sulla stessa pagina.
+- [X]  Implementare la logica di controllo dell'email direttamente in index.php.
+- [X]  Mostrare il risultato della validazione sulla stessa pagina.
 
 ### Milestone 2 (functions.php)
 - []  Creare un file functions.php per gestire la logica di controllo dell'email.
